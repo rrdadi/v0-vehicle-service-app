@@ -83,7 +83,6 @@ export default async function SettingsPage() {
   )
 }
 
-
 function SeedDataButton() {
   const handleSeedData = async () => {
     if (confirm("Are you sure you want to add sample data to the system?")) {
