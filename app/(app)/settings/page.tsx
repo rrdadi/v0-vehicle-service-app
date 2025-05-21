@@ -82,7 +82,7 @@ export default async function SettingsPage() {
     </div>
   )
 }
-;("use client")
+
 
 function SeedDataButton() {
   const handleSeedData = async () => {
